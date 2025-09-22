@@ -11,7 +11,7 @@ I am a Computer Science student with a passion for reverse-engineering and decom
 
 - 2019: Sony Aibo Robot Dog Programming: Programmed the ERS-210 Sony Aibo Robot Dog using Extended RCode, evolving its behavior from a "puppy" to an autonomous explorer capable of environmental learning and dynamic personality development.
 
-- 2020: Circle Parental Controls Bypass: Reconfigured the ARP table to route packets directly to the router, effectively bypassing Circle Parental Controls. Integrated a Raspberry Pi and associated cards into a 3D-printed case, establishing a passthrough network and developing a custom front-end with parental collaboration to monitor internet usage, featuring webpage handoff and local content server hosting.
+- 2020: Circle Parental Controls Bypass: Reconfigured the ARP table on an embedded system to route packets directly to my router, effectively bypassing Circle Parental Controls. Integrated a Raspberry Pi and associated cards into a 3D-printed case, establishing a passthrough network and developing a custom front-end with parental collaboration to monitor internet usage, featuring webpage handoff and local content server hosting.
 
 - 2021: Server Backend Development: Engineered the server infrastructure for one of my games, enabling cross-platform multiplayer functionality, cloud-based autosave, copy protection and other DRM, and integrated cross-platform chat features.
 
