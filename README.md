@@ -1,6 +1,6 @@
 ## Hi- I'm Mylo!
 
-I am a Computer Science student with a passion for reverse-engineering and decompilation, human oriented robotics, media, legacy hardware, and wireless systems!
+I am a Computer Science student with a passion for reverse-engineering and decompilation, robotics and HCI, retro tech, and wireless systems!
 
 
 ### My favorite projects:
