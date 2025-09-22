@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi- I'm Mylo!
+
+I am a Computer Science student with a passion for reverse-engineering and decompilation, human oriented robotics, media, legacy hardware, and wireless systems!
+
+
+### My favorite projects:
+
+- 2017: Portable Raspberry Pi Console: Engineered a compact, all-in-one gaming console featuring custom button PCBs connected to an Arduino. Designed for portability with an integrated speaker and screen, while also supporting external display connectivity. Constructed the enclosure using plexiglass.
+
+- 2018: Polarized Arcade Cabinet: Developed an arcade cabinet with a unique display viewable exclusively through polarizing glasses. Designed and built a custom MDF cabinet to house the system.
+
+- 2019: Sony Aibo Robot Dog Programming: Programmed the ERS-210 Sony Aibo Robot Dog using Extended RCode, evolving its behavior from a "puppy" to an autonomous explorer capable of environmental learning and dynamic personality development.
+
+- 2020: Circle Parental Controls Bypass: Reconfigured the ARP table to route packets directly to the router, effectively bypassing Circle Parental Controls. Integrated a Raspberry Pi and associated cards into a 3D-printed case, establishing a passthrough network and developing a custom front-end with parental collaboration to monitor internet usage, featuring webpage handoff and local content server hosting.
+
+- 2021: Server Backend Development: Engineered the server infrastructure for one of my games, enabling cross-platform multiplayer functionality, cloud-based autosave, copy protection and other DRM, and integrated cross-platform chat features.
+
+- 2022: Apple Developer Program Enrollment: Became an Apple Developer, successfully porting one of my games to iOS, Android, and Apple TV platforms. Implemented iPhone pairing in the Apple TV build for controller functionality, menu navigation, chat, and save features.
+
+- 2023: Middle School Animatronic Show: Collaborated with school administration to design, build, program, and launch a new animatronic show, completing the project within a six-week timeframe.
+
+- 2024: AIBO Reverse Engineering Initiative: Initiated a global collaboration to reverse-engineer Sony AIBO robot dogs. Utilized tools such as Ghidra and IDA Pro, exploited hardware vulnerabilities, and analyzed Sony Memory Stick hardware keys, working alongside a diverse team of experts.
+
 
 <!--
 **Doggies-Galore/Doggies-Galore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
