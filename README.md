@@ -18,7 +18,8 @@ I am a Computer Science student with a passion for reverse-engineering and decom
 - 2022: Apple Developer Program Enrollment: Became an Apple Developer, successfully porting one of my games to iOS, Android, and Apple TV platforms. Implemented iPhone pairing in the Apple TV build for controller functionality, menu navigation, chat, and save features.
 
 - 2023: Middle School Animatronic Show: Collaborated with school administration to design, build, program, and launch a new animatronic show, completing the project within a six-week timeframe.
-
+- 
+- 2024: Initiated and collaborated with a worldwide group of experts to reverse engineer a 20 year old robot dog. Utilized tools such as ghidra, IDA, and built custom scripts to dynamically match function names present in ELF binaries to decompiled content in Ghidra. Reverse-engineered a mipsle ROM, and identified it to be running a fork of System-V Linux.
 <!--
 **Doggies-Galore/Doggies-Galore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
