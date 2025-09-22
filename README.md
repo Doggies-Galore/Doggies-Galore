@@ -19,9 +19,6 @@ I am a Computer Science student with a passion for reverse-engineering and decom
 
 - 2023: Middle School Animatronic Show: Collaborated with school administration to design, build, program, and launch a new animatronic show, completing the project within a six-week timeframe.
 
-- 2024: AIBO Reverse Engineering Initiative: Initiated a global collaboration to reverse-engineer Sony AIBO robot dogs. Utilized tools such as Ghidra and IDA Pro, exploited hardware vulnerabilities, and analyzed Sony Memory Stick hardware keys, working alongside a diverse team of experts.
-
-
 <!--
 **Doggies-Galore/Doggies-Galore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
