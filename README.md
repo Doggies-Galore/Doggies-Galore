@@ -34,3 +34,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### You can find me here: 
+
+It's a bit barren for now... more links will pop up here soon!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Mylo-Dove)
+
+
